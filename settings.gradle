@@ -1,0 +1,4 @@
+include ':mode1'
+include ':mylibrary'
+include ':app'
+rootProject.name = "Little training"
